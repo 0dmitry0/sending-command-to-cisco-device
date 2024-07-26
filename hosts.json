@@ -1,0 +1,17 @@
+{
+"hostname": [
+    {
+        "ip": "ip",
+        "username": "username",
+        "password": "password"
+    }
+],
+
+"hostname": [
+    {
+        "ip": "ip",
+        "username": "username",
+        "password": "password"
+    }
+]
+}
